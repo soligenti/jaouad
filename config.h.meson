@@ -1,0 +1,5 @@
+#define PACKAGE "@project_name@"
+
+#define PACKAGE_STRING "@project_name@ @version@"
+
+#define DECOR_INTERFACE_VERSION @decor_interface_version@
